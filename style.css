@@ -60,6 +60,8 @@ body {
 }
 
 .gras {
+	
+	font-family:'Calibri';
 	font-weight:bold;
 	
 }
@@ -192,9 +194,21 @@ h1 {
 	color:#3F84E4;
 	width:95%;
 	margin:auto;
-	height:430px;
-	font-weight:bold;
+	height:440px;
 	font-size:14px;
+	margin-top:5px;
+}
+
+.poste {
+	font-weight:bold;
+	width:93%;
+	height:5px;
+	
+}
+
+.puceInside {
+	padding-left:80px;
+	list-style-type:circle;	
 }
 
 .titre2 {
@@ -255,6 +269,10 @@ h1 {
 	list-style-type:none;
 	margin-right:0;
 	font-weight:bold;
+}
+
+.cssCertif {
+	float:right;
 }
 
 
