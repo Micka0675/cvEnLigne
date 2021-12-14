@@ -2,19 +2,22 @@ body {
 	background-color:grey;
 	width:800px;
 	height:1100px;
-	font-family: 'Comforter', cursive;
+	font-family: 'Calibri';
+	font-family: 'Arial Black';
 	font-family: 'Roboto', sans-serif;
 	font-family: 'Source Sans 3', sans-serif;
+	font-family: 'Lato', sans-serif;
 	margin:auto;
 }
 
 
 .leftRow {
+	font-family: 'Calibri';
 	background-color:#749DA9;
 	width:200px;
-	height:1050px;
+	height:1060px;
 	float:left;
-	padding-top:50px;
+	padding-top:40px;
 }
 
 .blocPhoto {
@@ -30,22 +33,29 @@ body {
 	margin-right:auto;
 }
 
-h3 {
-	text-align:center;
-	font-weight:bold;
+.tContact {
+	font-weight:normal;
+	font-family: 'Calibri';
+	padding-top:20px;
+	margin-left:5px;
+	margin-right:5px;
 	color:#050A0B;
+	margin-bottom:30px;
+	font-size:20px;
 }
 .contact {
 	width:200px;
-	height:220px;
+	height:210px;
 	color:#050A0B;
-	font-weight:bold;
-	margin:auto;
 	text-align:center;
 	line-height:8px;
-	font-size:18px;
-	
+	font-size:16px;
+	margin-bottom:50px;
+}
 
+.contact p {
+	margin-left:10px;
+	margin-right:10px;
 	
 }
 
@@ -59,25 +69,28 @@ h3 {
 	background-color:#050A0B;
 	color:white;
 	text-align:center;
-	font-size:16px;
+	font-size:18px;
 	width:80%;
-	height:200px;
+	height:240px;
 	border-radius:20px;
 	padding-top:2px;
 	margin:auto;
+	line-height:26px;
 	
 }
 
 .technique p {
 	margin-left:5px;
 	margin-right:5px;
+
 }
 
 .anglais {
 	color:white;
 	font-weight:bold;
 	text-align:center;
-	margin-bottom:20px;
+	margin-bottom:40px;
+	margin-top:40px;
 }
 
 .hobbies {
@@ -85,48 +98,55 @@ h3 {
 	color:white;
 	text-align:center;
 	width:80%;
-	height:200px;
+	height:140px;
 	border-radius:20px;
 	margin:auto;
 	padding-top:20px;
+	line-height:10px;
 }
 
 .hobbies p {
 	text-align:center;
-	font-size:16px;
+	font-size:17px;
 	
 }
 
 .cI {
 	margin:auto;
 	width:90%;
+	margin-bottom:20px;
 }
 
 .rightRow {
 	width:600px;
-	height:1050px;
+	height:1060px;
 	background-color:white;
 	float:right;
-	padding-top:50px;
+	padding-top:40px;
+	font-family: 'Calibri';
+	
 }
 
 h1 {
 	color:#050A0B;
-	font-size:35px;
+	font-size:33px;
 	width:450px;
 	margin:auto;
 	font-weight:bold;
 	text-align:center;
-	font-family:'Lato',sans-serif;
+	font-family: 'Arial Black';
+	margin-bottom:15px;
 }
 
 .intro {
 	width:95%;
 	text-align:center;
+	font-weight:bold;
 	font-style: italic;
 	color:#3F84E4;
 	font-size:14px;
 	margin:auto;
+	margin-bottom:20px;
 }
 
 .entete {
@@ -135,12 +155,20 @@ h1 {
 	text-align:center;
 	font-size:14px;
 	width:95%;
-	height:55px;
+	height:50px;
 	margin:auto;
 	border-radius:10px;
 	line-height:20px;
 	font-style: italic;
-	margin-bottom:15px;
+	margin-bottom:25px;
+	padding-top:10px;
+}
+
+.entete p {
+	
+	width:95%;
+	margin:auto;
+	
 }
 
 .titre {
@@ -150,6 +178,7 @@ h1 {
 	margin:auto;
 	border-top:solid #3F84E4;
 	border-bottom:solid #3F84E4;
+	margin-bottom:30px;
 }
 
 .txt2 {
@@ -163,7 +192,7 @@ h1 {
 	color:#3F84E4;
 	width:95%;
 	margin:auto;
-	height:460px;
+	height:430px;
 	font-weight:bold;
 	font-size:14px;
 }
@@ -175,20 +204,24 @@ h1 {
 	margin:auto;
 	border-top:solid #3F84E4;
 	border-bottom:solid #3F84E4;
+	margin-bottom:10px;
 }
 
 .formation1 {
 	width:95%;
-	height:40px;
+	height:50px;
 	color:#3F84E4;
 	margin:auto;
-	font-size:14px;
+	font-size:13px;
+	line-height:12px;
+	
 	
 }
 
 .date {
 	font-weight:bold;
 	float:left;
+	font-size:15px;
 	
 }
 
@@ -196,26 +229,31 @@ h1 {
 	float:right;
 	list-style-type:none;
 	font-weight:bold;
+	margin-right:20px;
+}
+
+.ital {
+	font-style:italic;
 }
 
 .detailA {
 	float:right;
 	list-style-type:none;
-	margin-right:100px;
+	margin-right:120px;
 	font-weight:bold;
 }
 
 .detailB {
 	float:right;
 	list-style-type:none;
-	margin-right:40px;
+	margin-right:60px;
 	font-weight:bold;
 }
 
 .detailC {
 	float:right;
 	list-style-type:none;
-	margin-right:10px;
+	margin-right:0;
 	font-weight:bold;
 }
 
