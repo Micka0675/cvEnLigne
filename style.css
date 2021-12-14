@@ -1,0 +1,223 @@
+body {
+	background-color:grey;
+	width:800px;
+	height:1100px;
+	font-family: 'Comforter', cursive;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans 3', sans-serif;
+	margin:auto;
+}
+
+
+.leftRow {
+	background-color:#749DA9;
+	width:200px;
+	height:1050px;
+	float:left;
+	padding-top:50px;
+}
+
+.blocPhoto {
+	background-color:white;
+	margin:auto;
+	width:60%;
+	
+}
+
+.photo {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h3 {
+	text-align:center;
+	font-weight:bold;
+	color:#050A0B;
+}
+.contact {
+	width:200px;
+	height:220px;
+	color:#050A0B;
+	font-weight:bold;
+	margin:auto;
+	text-align:center;
+	line-height:8px;
+	font-size:18px;
+	
+
+	
+}
+
+.gras {
+	font-weight:bold;
+	
+}
+
+
+.technique {
+	background-color:#050A0B;
+	color:white;
+	text-align:center;
+	font-size:16px;
+	width:80%;
+	height:200px;
+	border-radius:20px;
+	padding-top:2px;
+	margin:auto;
+	
+}
+
+.technique p {
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.anglais {
+	color:white;
+	font-weight:bold;
+	text-align:center;
+	margin-bottom:20px;
+}
+
+.hobbies {
+	background-color:#050A0B;
+	color:white;
+	text-align:center;
+	width:80%;
+	height:200px;
+	border-radius:20px;
+	margin:auto;
+	padding-top:20px;
+}
+
+.hobbies p {
+	text-align:center;
+	font-size:16px;
+	
+}
+
+.cI {
+	margin:auto;
+	width:90%;
+}
+
+.rightRow {
+	width:600px;
+	height:1050px;
+	background-color:white;
+	float:right;
+	padding-top:50px;
+}
+
+h1 {
+	color:#050A0B;
+	font-size:35px;
+	width:450px;
+	margin:auto;
+	font-weight:bold;
+	text-align:center;
+	font-family:'Lato',sans-serif;
+}
+
+.intro {
+	width:95%;
+	text-align:center;
+	font-style: italic;
+	color:#3F84E4;
+	font-size:14px;
+	margin:auto;
+}
+
+.entete {
+	background-color:#050A0B;
+	color:white;
+	text-align:center;
+	font-size:14px;
+	width:95%;
+	height:55px;
+	margin:auto;
+	border-radius:10px;
+	line-height:20px;
+	font-style: italic;
+	margin-bottom:15px;
+}
+
+.titre {
+	width:95%;
+	height:33px;
+	color:#050A0B;
+	margin:auto;
+	border-top:solid #3F84E4;
+	border-bottom:solid #3F84E4;
+}
+
+.txt2 {
+	color:#3F84E4;
+	text-align:center;
+	font-size:25px;
+	margin-top:0px;
+}
+
+.xp {
+	color:#3F84E4;
+	width:95%;
+	margin:auto;
+	height:460px;
+	font-weight:bold;
+	font-size:14px;
+}
+
+.titre2 {
+	width:95%;
+	height:33px;
+	color:#3F84E4;
+	margin:auto;
+	border-top:solid #3F84E4;
+	border-bottom:solid #3F84E4;
+}
+
+.formation1 {
+	width:95%;
+	height:40px;
+	color:#3F84E4;
+	margin:auto;
+	font-size:14px;
+	
+}
+
+.date {
+	font-weight:bold;
+	float:left;
+	
+}
+
+.detail {
+	float:right;
+	list-style-type:none;
+	font-weight:bold;
+}
+
+.detailA {
+	float:right;
+	list-style-type:none;
+	margin-right:100px;
+	font-weight:bold;
+}
+
+.detailB {
+	float:right;
+	list-style-type:none;
+	margin-right:40px;
+	font-weight:bold;
+}
+
+.detailC {
+	float:right;
+	list-style-type:none;
+	margin-right:10px;
+	font-weight:bold;
+}
+
+
+
