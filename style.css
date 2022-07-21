@@ -129,7 +129,12 @@ body {
 	
 }
 
-h1 {
+.linkWeb{
+	margin:auto;
+	text-align:center;
+	color:#3F84E4;
+}
+h1 {  
 	color:#050A0B;
 	font-size:33px;
 	width:450px;
@@ -197,6 +202,7 @@ h1 {
 	height:440px;
 	font-size:14px;
 	margin-top:5px;
+	margin-bottom:20px;
 }
 
 .poste {
