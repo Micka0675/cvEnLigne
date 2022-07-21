@@ -130,9 +130,11 @@ body {
 }
 
 .linkWeb{
-	margin:auto;
-	text-align:center;
+	width:100%;
+	text-decoration:none;
 	color:#3F84E4;
+	display:flex;
+	justify-content:center;
 }
 h1 {  
 	color:#050A0B;
